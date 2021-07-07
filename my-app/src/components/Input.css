@@ -1,0 +1,12 @@
+input[type="text"] {
+  height: 1.8em;
+  font-size: 1.1em;
+}
+
+input[type="text"]:focus {
+  border: solid;
+  border-width: 0.2em;
+  border-color: #3584e4;
+  box-shadow: 0.2em #3584e4;
+  transform: scale(1.025);
+}

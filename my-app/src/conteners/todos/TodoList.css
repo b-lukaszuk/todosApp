@@ -1,0 +1,39 @@
+table {
+  table-layout: fixed;
+  width: 60%;
+}
+
+thead {
+  text-align: left;
+}
+
+td.name {
+  width: 30%;
+}
+
+td.status {
+  width: 20%;
+}
+
+td.remBut {
+  width: 50%;
+}
+
+th.name {
+  width: 30%;
+}
+
+th.status {
+  width: 20%;
+}
+
+th.remBut {
+  width: 50%;
+}
+
+.TodoList {
+  background-color: lightblue;
+  opacity: 0.7;
+  padding: 1em;
+  box-shadow: 1em gray;
+}
