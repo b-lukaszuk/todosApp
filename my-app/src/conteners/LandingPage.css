@@ -58,3 +58,22 @@ input[type="password"]:valid {
 p {
   font-size: 1.2em;
 }
+
+ul {
+    list-style: none;
+}
+
+li > a {
+    color: blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+li > a:hover {
+    color: blue;
+    text-decoration: none;
+}
+
+li > a:visited {
+    color: navy;
+}
