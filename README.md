@@ -1,5 +1,7 @@
 # todosApp
 
+**Deployed version ->** [Here](https://b-lukaszuk.github.io/todosApp/#/)
+
 Kopia `PB_reactjs_2020_2021/sem2_zaliczenie/`
 
 # Wymagania
@@ -31,6 +33,8 @@ tylko w 1 miejscu) bedzie to zrobic w useEffect]
 https://jsonplaceholder.typicode.com/users/1/todos
 
 - strona wykorzystuje [localStorage](https://developer.mozilla.org/pl/docs/Web/API/Window/localStorage) do przechowywania/odczytywania todosow
+
+- deplyment wymagal [zamiany BrowserRouter na HashRouter](https://medium.com/@arijit_chowdhury/deploy-react-app-with-react-router-to-github-pages-for-free-569377f483f)
 
 ## Do użytku własnego, nie powinno być używane przez nikogo innego.
 ## For personal use only, should not be used by anyone else.
