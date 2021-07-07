@@ -2,22 +2,6 @@
 
 Kopia `PB_reactjs_2020_2021/sem2_zaliczenie/`
 
-# Reminder
-
-Utworzono za: https://create-react-app.dev/docs/getting-started/ komendami
-
-```bash
-npx create-react-app my-app
-cd my-app
-npm start
-```
-# Kolejne uruchomienie
-
-```bash
-cd my-app
-npm start
-```
-
 # Wymagania
 
 Apka powinna miec to o czym byla mowa na cwiczeniach, tj.:
